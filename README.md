@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umang Achalia</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="center" alt="Coding" width="1000" height="400" src="https://cdnb.artstation.com/p/assets/images/images/049/030/729/original/norma2d-uninvitedvisitor.gif?1651529904">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-achalia&label=Profile%20views&color=0e75b6&style=flat" alt="umang-achalia" /> </p>
 
