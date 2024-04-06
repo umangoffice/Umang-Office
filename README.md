@@ -27,8 +27,6 @@
   <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umang-achalia&show_icons=true&locale=en&layout=compact" alt="umang-achalia" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=umang-achalia&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="umang-achalia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umang-achalia&show_icons=true&locale=en" alt="umang-achalia"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umang-achalia&" alt="umang-achalia" /></p>
+<a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=umang-achalia&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
