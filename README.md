@@ -20,10 +20,11 @@
   <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
   <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" alt="arch" width="40" height="40"/> </a> 
   <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> </a> 
-  <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a> 
+  <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/> </a> 
   <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="ubuntu" width="40" height="40"/> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" alt="vim" width="40" height="40"/> </a>
-  <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/> </a>
+  <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a>
+  <a> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="vs" width="40" height="40"/> </a>
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=umang-achalia&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="umang-achalia" /></p>
